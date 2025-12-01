@@ -20,3 +20,6 @@ I post updates here **every day** as part of my consistency challenge.
 ---
 
 ## 🗂️ Repository Structure
+- Day 15 in ML
+- Day 16 in ML
+- Day 17 in ML
